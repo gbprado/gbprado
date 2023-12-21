@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gbprado
-- 👀 I’m interested in tv show and series 
+- 👀 I’m interested in tv show and philosophy movies
 - 🌱 I’m currently learning html
 
 <!---
