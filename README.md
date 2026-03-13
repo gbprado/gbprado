@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gbprado
-- 👀 I’m interested in tv show and philosophy movies
-- 🌱 I’m currently learning html
+- 👋 Hi, I’m Gabriel Matheus =)
+- 👀 I’m interested in asian food and horro movies
+- 🌱 I’m currently learning python and  data analysis with SQL data base.
 
 <!---
 gbprado/gbprado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
