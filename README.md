@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Matheus =)
-- 👀 I’m interested in asian food and horro movies
+- 👀 I’m interested in asian food and horror movies
 - 🌱 I’m currently learning python and  data analysis with SQL data base.
 
 <!---
